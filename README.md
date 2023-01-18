@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm Krystian</h1>
-<h3 align="center">Full Stack Web Developer at @100devs.</h3>
+<h3 align="center">Full-Stack Web Developer at @100devs.</h3>
 
-- 🌱 I’m passionate full stack web developer
+- 🌱 I’m passionate Full-Stack Web Developer
 
 - 👨🏼‍💻All of my projects are available at [https://krystianpys.netlify.app/](https://krystianpys.netlify.app/)
 
